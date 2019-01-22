@@ -14,7 +14,6 @@ namespace CourseEnrollmentApp.ConsoleUI
         static void Main(string[] args)
         {
 
-            //var test = courseEnrollmentContext.Enrollments.ToList();
             PopulateDatabase();
             TestUpdateOpertaion();
             TestDeleteOpertaion();
